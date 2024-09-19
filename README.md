@@ -1,6 +1,6 @@
 # MySql-BegginerProject
-This is a beginner friendly project using MySql for creating a Library Management System📚\n
-A database named Library is created and 6 different tables are created in it. \n
+This is a beginner friendly project using MySql for creating a Library Management System📚
+A database named Library is created and 6 different tables are created in it.
 Each table serves a different purpose.
 Table "branch" contains details about different branches of the library including branch id, address, manager id, and contact number of the library
 Table "employee" contains details about the employees in the library including name, id, position, salary and branch id
